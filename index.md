@@ -1,8 +1,11 @@
-## Welcome to GitHub Pages
+## 朱由校和素素的网页
 
-�Ұ�������绩������
+<<<<<<< HEAD
 
-第一次尝试用github搭建个人博客，有些紧张，不知道说什么好了�?2021.05.21
+=======
+>>>>>>> 25dcf7c5c766a47aff9526b06ab769486ef4867a
+
+
 You can use the [editor on GitHub](https://github.com/Suqiufang1994/qingfengmingyue.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
@@ -37,4 +40,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and weâ€™ll help you sort it out.
